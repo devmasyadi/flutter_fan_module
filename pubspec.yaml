@@ -13,7 +13,11 @@ dependencies:
     sdk: flutter
   plugin_platform_interface: ^2.0.2
   flutter_core_ads_manager:
-    path: /Users/ahmadsuyadi/Flutter/Package/flutter_core_ads_manager
+    git:
+      url: https://github.com/devmasyadi/flutter_core_ads_manager.git
+      ref: 1.0.1
+  # flutter_core_ads_manager:
+  #   path: /Users/ahmadsuyadi/Flutter/Package/flutter_core_ads_manager
 
 dev_dependencies:
   flutter_test:

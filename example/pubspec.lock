@@ -65,9 +65,11 @@ packages:
   flutter_core_ads_manager:
     dependency: "direct main"
     description:
-      path: "/Users/ahmadsuyadi/Flutter/Package/flutter_core_ads_manager"
-      relative: false
-    source: path
+      path: "."
+      ref: "1.0.1"
+      resolved-ref: "7edbe1e9e1243f94cb828460cc446f4ee4f25ec9"
+      url: "https://github.com/devmasyadi/flutter_core_ads_manager.git"
+    source: git
     version: "0.0.1"
   flutter_fan_module:
     dependency: "direct main"
